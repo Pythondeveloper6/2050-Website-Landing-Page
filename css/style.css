@@ -1,0 +1,105 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif
+}
+.subtitle{
+    font-size: 2vw;
+    color:#6c63ff;
+}
+.title{
+    font-size: 5vw;
+}
+.paragraph{
+    font-size: 24px;
+}
+.paragraph-gray{
+    font-size: 18px;
+    line-height: 1.55;
+    color: #666666;
+}
+.banner-btn{
+    background-color: #6c63ff;
+    padding: 12px 58px;
+    font-size: 18px;
+    color: white;
+    border-radius: 25px;
+    text-decoration: none;
+}
+.side-img{
+    margin-left: -285px;
+    height: 81%;
+    margin-top: 38px;
+}
+.more-link{
+    color: white;
+    font-size: 16px;
+    border-bottom: 2px solid #6c63ff;
+    font-weight: 700;
+    text-decoration: none;
+}
+.title-small{
+    font-size: 48;
+    font-weight: 700;
+}
+.subtitle-small{
+    font-weight: 700;
+}
+.img-background{
+    background-color: red;
+    border-radius: 50%;
+    width: 550px;
+    height: 550px;
+}
+.img-background img{
+    margin-top: -85px;
+}
+.font-21{
+    font-size: 21px;
+    font-weight: 700;
+}
+.color-gray{
+    color: #666666;
+}
+.service-icon{
+    background-color: #6c63ff;
+    padding: 20px;
+    border-radius: 50%;
+}
+.features{
+    background-color: rgb(243, 249, 251);
+    /* height: 200px; */
+}
+.features-icon{
+    color: #6c63ff;
+}
+.color-white{
+    color: white;
+}
+.feature-div{
+    border-bottom: 4px solid #6c63ff !important;
+    /* transition: top ease 0.5s; */
+}
+.feature-div:hover{
+    margin-top: -10px;
+}
+.blog-subtitle{
+    padding: 0 20%;
+}
+.card-text a{
+    text-decoration: none;
+    color: white;
+}
+.card{
+    overflow: hidden;
+}
+
+.card img{
+    transition: all 0.3s ease-out 0s;
+}
+
+.card img:hover {
+    transform: scale(1.1);
+  }
